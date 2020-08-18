@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "git.autofetch": true
 }
