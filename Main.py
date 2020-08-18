@@ -8,7 +8,7 @@ with np.load('mnist.npz') as data:
 training_inputs = [[[0],[1]],[[1],[0]],[[0],[0]],[[1],[1]]]
 training_outputs = [[[1],[0]],[[1],[0]],[[0],[1]],[[0],[1]]]
 
-layer_sizes = (2,15,1)
+layer_sizes = (2,7,5)
 
 net = nn.NeuralNetworks(layer_sizes)
 
